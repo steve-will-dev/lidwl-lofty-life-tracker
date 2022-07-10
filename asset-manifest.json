@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lidwl-lofty-life-tracker/static/css/main.c8295e96.css",
+    "main.js": "/lidwl-lofty-life-tracker/static/js/main.740d04b2.js",
+    "static/js/787.16b3ca24.chunk.js": "/lidwl-lofty-life-tracker/static/js/787.16b3ca24.chunk.js",
+    "static/media/Capture.png": "/lidwl-lofty-life-tracker/static/media/Capture.c352446c1884dd135afd.png",
+    "static/media/plant.png": "/lidwl-lofty-life-tracker/static/media/plant.db7c423588f465bf9bdf.png",
+    "index.html": "/lidwl-lofty-life-tracker/index.html",
+    "main.c8295e96.css.map": "/lidwl-lofty-life-tracker/static/css/main.c8295e96.css.map",
+    "main.740d04b2.js.map": "/lidwl-lofty-life-tracker/static/js/main.740d04b2.js.map",
+    "787.16b3ca24.chunk.js.map": "/lidwl-lofty-life-tracker/static/js/787.16b3ca24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8295e96.css",
+    "static/js/main.740d04b2.js"
+  ]
+}
